@@ -1,6 +1,6 @@
 # Testing Activation Functions
 
-A set of neural network model with the purpose of compare different activation functions and it effect to the learning process.
+A set of neural network models with the purpose of compare different activation functions and its effects to the learning process.
 This is inspired in the following article:
 
 [Exploring Activation Functions for Neural Networks](https://towardsdatascience.com/exploring-activation-functions-for-neural-networks-73498da59b02)
@@ -15,13 +15,13 @@ This test is using the hello world dataset of neural networks:
 
 [THE MNIST DATABASE](http://yann.lecun.com/exdb/mnist/)
 
-The mnist dataset is in IDX format, a description of how this dataset is here:
+A description of how the mnist data set can be found here:
 
 [Converting MNIST dataset for Handwritten digit recognition in IDX Format to Python Numpy Array](https://medium.com/@mannasiladittya/converting-mnist-data-in-idx-format-to-python-numpy-array-5cb9126f99f1)
 
-Also here is a repo were we can find a way to parse it:
+Also in this repository we can find a way to parse it:
 
-[read and show images dataset](https://gist.github.com/akesling/5358964)
+[Read and show mnist images](https://gist.github.com/akesling/5358964)
 
 ## Model Under Test
 The model is very simple
@@ -41,7 +41,7 @@ These are the functions under test:
 
 # Notebooks
 
-- [basic](comparing-activationfunctions-basic.ipynb), shows how to read the mnist data set, see the number images and various adhoc tests
+- [basic](comparing-activationfunctions-basic.ipynb), shows how to read the mnist data set, see mnist images and various simple models build with keras.
 
 - [plots](comparing-activationfunctions-comparison.ipynb), shows a side by side comparison between the different models. 
 
