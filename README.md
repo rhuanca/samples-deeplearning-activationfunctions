@@ -9,6 +9,12 @@ In this article you can fing detailed information on:
 - neural network architecture
 - explanation of effect different activation functions
 
+These are the functions under test:
+
+- Sigmoid
+- Tanh
+- Relu
+
 ## Dataset
 
 This test is using the hello world dataset of neural networks:
@@ -22,3 +28,7 @@ The mnist dataset is in IDX format, a description of how this dataset is here:
 Also here is a repo were we can find a way to parse it:
 
 [read and show images dataset](https://gist.github.com/akesling/5358964)
+
+
+## Other References
+- [How to Get Reproducible Results with Keras](https://machinelearningmastery.com/reproducible-results-neural-networks-keras/)
