@@ -5,7 +5,7 @@ This is inspired in the following article:
 
 [Exploring Activation Functions for Neural Networks](https://towardsdatascience.com/exploring-activation-functions-for-neural-networks-73498da59b02)
 
-In this article you can fing detailed information on:
+In this article you can find detailed information on:
 - neural network architecture
 - explanation of effect different activation functions
 
@@ -47,9 +47,9 @@ These are the functions under test:
 
 As we can see from results:
 
-1. The model does does not use an activation function is not capable to learn well. 
+1. The model does not use an activation function is not capable to learn well. 
 2. The models that does use an activation function are able to learn. 
-2. Changing the activation functions it only affect how fast the model can learn but not how much.
+2. Changing the activation functions it only affects how fast the model can learn but not how much.
 
 
 ## 5 Epochs
@@ -59,4 +59,4 @@ As we can see from results:
 ![](100epochs.png)
 
 ## Other References
-- [How to Get Reproducible Results with Keras](https://machinelearningmastery.com/reproducible-results-neural-networks-keras/)
+* [How to Get Reproducible Results with Keras](https://machinelearningmastery.com/reproducible-results-neural-networks-keras/)
