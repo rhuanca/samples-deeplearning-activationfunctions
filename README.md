@@ -1,4 +1,4 @@
-# Testing Action Functions
+# Testing Activation Functions
 
 A set of neural network model with the purpose of compare different activation functions and it effect to the learning process.
 This is inspired in the following article:
